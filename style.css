@@ -60,7 +60,7 @@ section{
 /* Hero Section */
 header{
     height: 90vh;
-    background: linear-gradient(to right, rgba(255,0,0,0), rgba(255,0,0,0)), url('images/background.png');
+    background: linear-gradient(to right, rgba(255,0,0,0), rgba(255,0,0,0)), url('/background.png');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -160,7 +160,7 @@ input[type="submit"]{
 /* Definition Section */
 .def{
     height: 70vh;
-    background: linear-gradient(to right, rgba(255,0,0,0), rgba(255,0,0,0)), url('images/bg-grid.png');
+    background: linear-gradient(to right, rgba(255,0,0,0), rgba(255,0,0,0)), url('/bg-grid.png');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
